@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Hello to TradeBank accounts related local APIs"
+  contactDetails:
+    name: "Abdullah KUŞ - Developer"
+    email: "akus@mail.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (444) 444-4444

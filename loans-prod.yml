@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to TradeBank loans related prod APIs "
+  contactDetails:
+    name: "Abdullah KUŞ - QA Lead"
+    email: "ak@tradebank.com"
+  onCallSupport:
+    - (777) 777-7777
+    - (888) 888-8888

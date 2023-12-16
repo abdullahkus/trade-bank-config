@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to TradeBank accounts related QA APIs "
+  contactDetails:
+    name: "Abdullah KUŞ - QA Lead"
+    email: "akus@tradebank.com"
+  onCallSupport:
+    - (777) 777-7777
+    - (666) 666-6666

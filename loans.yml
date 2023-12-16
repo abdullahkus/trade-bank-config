@@ -1,0 +1,14 @@
+server:
+  port: 8090
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to TradeBank loans related local APIs "
+  contactDetails:
+    name: "Abdullah KUŞ - Developer"
+    email: "ak@tradebank.com"
+  onCallSupport:
+    - (444) 444-4444
+    - (555) 555-5555
