@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to TradeBank accounts related prod APIs "
+  contactDetails:
+    name: "Abdullah KUŞ - Product Owner"
+    email: "akus@tradebank.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (444) 444-4444

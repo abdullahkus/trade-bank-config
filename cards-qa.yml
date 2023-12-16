@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to TradeBank cards related QA APIs "
+  contactDetails:
+    name: "Abdullah KUŞ - QA Lead"
+    email: "ak@tradebank.com"
+  onCallSupport:
+    - (999) 999-9999
+    - (888) 888-8888
